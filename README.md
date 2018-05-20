@@ -1,5 +1,5 @@
-# dockit-php71-fpm
-PHP 7.0 image for Dockit.
+# dockit-php56-fpm
+PHP 5.6 image for Dockit.
 
 Includes the PHP modules:
 - curl
